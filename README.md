@@ -14,11 +14,4 @@
  <img  alt="Javascript" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
  <image alineg=center alt="Javascript" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  <div>
-- uses: Platane/snk@v2
-  with:
-    github_user_name: ${{ github.com/marcos2872 }}
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
- </div>
+![snake gif](https://github.com/marcos2872/marcos2872/blob/output/github-contribution-grid-snake.svg)
