@@ -1,4 +1,4 @@
-### Olá eu sou o Marcos Souza
+### Olá eu sou o Marcos Souza atualmente estudante de desenvolvimento web na Trybe
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-souza-a298a9209/)
 
