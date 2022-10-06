@@ -1,4 +1,6 @@
-### Olá eu sou o Marcos Souza atualmente estudante de desenvolvimento web na Trybe
+### Olá eu sou o Marcos Souza.
+
+Sou iniciante na carreira de desenvolvimento web e estou adquirindo minhas primeiras experiências durante o curso da Trybe, escola de programação que optei por ter um sistema de ensino que utiliza uma metodologia mais voltada para prática e preparação pro mercado de trabalho. Atualmente estou no bloco de backend do curso e durante minha trajetória até aqui conquistei algumas skills, como raciocínio lógico, autodidata, proatividade, capacidade analítica e critica, gestão de tempo e organização. Antes da Trybe tive a oportunidade de trabalhar em uma loja de informática, o que me proporcionou experiência também com Hardwares. Meu interesse pela área da tecnologia se relaciona muito com a minha curiosidade a respeito do funcionamento de aparelhos eletrônicos e softwares, creio que trabalhando nessa área serei capaz de tornar a vida de muitas pessoas mais fácil e confortável, essa é uma das razões principais pela qual estou estudando para me tornar um profissional de excelência, além de gostar de um bom desafio.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-souza-a298a9209/)
 
@@ -24,6 +26,8 @@
  <img  alt="rtl" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red">
  <img  alt="rtl" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
  <img  alt="rtl" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+ <img  alt="rtl" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+ <img  alt="rtl" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white">
  
  </div>
   
