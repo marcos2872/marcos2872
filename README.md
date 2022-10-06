@@ -4,6 +4,9 @@ Sou iniciante na carreira de desenvolvimento web e estou adquirindo minhas prime
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-souza-a298a9209/)
 
+[![email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://criarmeulink.com.br/u/1665064154)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcos2872&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcos2872&show_icons=true&theme=dark)](https://github.com/marcos2872/github-readme-stats)
 
