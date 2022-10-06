@@ -3,8 +3,7 @@
 Sou iniciante na carreira de desenvolvimento web e estou adquirindo minhas primeiras experiências durante o curso da Trybe, escola de programação que optei por ter um sistema de ensino que utiliza uma metodologia mais voltada para prática e preparação pro mercado de trabalho. Atualmente estou no bloco de backend do curso e durante minha trajetória até aqui conquistei algumas skills, como raciocínio lógico, autodidata, proatividade, capacidade analítica e critica, gestão de tempo e organização. Antes da Trybe tive a oportunidade de trabalhar em uma loja de informática, o que me proporcionou experiência também com Hardwares. Meu interesse pela área da tecnologia se relaciona muito com a minha curiosidade a respeito do funcionamento de aparelhos eletrônicos e softwares, creio que trabalhando nessa área serei capaz de tornar a vida de muitas pessoas mais fácil e confortável, essa é uma das razões principais pela qual estou estudando para me tornar um profissional de excelência, além de gostar de um bom desafio.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-souza-a298a9209/)
-
-<img  alt="email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"> njsu5@hotmail.com
+<p>njsu5@hotmail.com</p>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcos2872&show_icons=true&theme=dark)
