@@ -4,7 +4,7 @@ Sou iniciante na carreira de desenvolvimento web e estou adquirindo minhas prime
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-souza-a298a9209/)
 <br />
-<a>njsu5@hotmail.com</a>
+<a>njsuDev5@hotmail.com</a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcos2872&show_icons=true&theme=dark)
