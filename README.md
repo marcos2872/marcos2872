@@ -1,6 +1,6 @@
-### Olá eu sou o Marcos Souza.
+### Sou o Marcos Brito.
 
-Sou desenvolvedor full-stack, e estou adquirindo minhas experiências durante o curso da Trybe onde realizamos +30 projetos voltados para o mercado de trabalho, a Trybe e a escola de programação que optei por ter um sistema de ensino que utiliza uma metodologia mais voltada para prática e preparação pro mercado de trabalho. Atualmente estou no bloco de backend do curso e durante minha trajetória até aqui conquistei algumas skills, como raciocínio lógico, autodidata, proatividade, capacidade analítica e critica, gestão de tempo e organização. Antes da Trybe tive a oportunidade de trabalhar em uma loja de informática, o que me proporcionou experiência também com Hardwares. Meu interesse pela área da tecnologia se relaciona muito com a minha curiosidade a respeito do funcionamento de aparelhos eletrônicos e softwares, e da vontade de criar coisas, creio que trabalhando nessa área serei capaz de ajudar muitas pessoas, essa é uma das razões principais pela qual estou estudando para me tornar um profissional de excelência, além de gostar de um bom desafio.
+Desenvolvedor full-stack com ênfase em criar aplicações com alta performasse escaláveis e boa usabilidade 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-souza-a298a9209/)
 <br />
