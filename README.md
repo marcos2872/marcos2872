@@ -40,6 +40,10 @@ Desenvolvedor full-stack com ênfase em criar aplicações com alta performasse 
 <image src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img  alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
  
- </div>
-  
-![snake svg](https://github.com/marcos2872/marcos2872/blob/output/github-contribution-grid-snake.svg)
+</div>
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcos2872/marcos2872/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcos2872/marcos2872/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marcos2872/marcos2872/output/github-contribution-grid-snake.svg">
+</picture>
