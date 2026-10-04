@@ -14,7 +14,7 @@
 - 🐍 **Python:** FastAPI, LangChain/LangGraph, SQLAlchemy + pgvector, MLflow, torch/transformers
 - 🖥️ **Desktop local-first:** Tauri + React, GTK4/Adwaita (app publicado na loja Fedora), Electron, TUI apps
 - 📊 **Pesquisa reproduzível:** labs com benchmarks, notebooks, fronteiras de Pareto e metodologia documentada
-- 🐳 **Cloud-native:** Docker/Compose, PostgreSQL + pgvector, Redis, RabbitMQ, Azure (OpenAI, Speech, Blob, Entra ID)
+- 🐳 **Cloud & DevOps:** Docker/Compose, GitHub Actions com gates, Azure (OpenAI, Speech, Blob, Entra ID, ACR), AWS (S3, IoT, SES), PostgreSQL + pgvector, Redis, RabbitMQ
 - 🔬 Spec-Driven Development, CI com gates de teste, Conventional Commits
 
 ---
@@ -100,7 +100,7 @@
 | **Backend & Arquitetura** | Monólito modular (NestJS + Prisma), microsserviços event-driven (RabbitMQ/Redis), APIs REST, DI, RBAC/ABAC, auditoria |
 | **Dados & IoT** | PostgreSQL + pgvector, MongoDB, consumers MQTT, agregação de telemetria, SQLite embarcado |
 | **Observabilidade** | MLflow (tracing, judges, prompt optimization), Jaeger, Prometheus, OpenTelemetry |
-| **DevOps & Qualidade** | Docker/Compose, GitHub Actions com gates, SDD, Conventional Commits, uv + ruff + pytest |
+| **DevOps & Clouds** | Docker/Compose, GitHub Actions com gates, Azure (OpenAI, Speech, Blob, Entra ID, ACR), AWS (S3, IoT, SES), SDD, Conventional Commits, uv + ruff + pytest |
 
 ---
 
