@@ -115,13 +115,6 @@
 - **[fingerprint-manager](https://github.com/marcos2872/fingerprint-manager)** — Gerenciador de digital GTK4/Adwaita publicado na loja Fedora
 - **[temporal-model-prediction](https://github.com/marcos2872/temporal-model-prediction)** — Predição temporal (CETESB): de ARIMA a Transformers/LLMs, com API FastAPI + metodologia documentada
 
-### 🏭 SENAI-SP Distrito Tecnológico (`istic-sp`)
-- **Hub do Grafeno Literature** — Chatbot RAG agentic bilíngue PT-EN com citações (FastAPI + LangGraph + pgvector, gate de testes 90%)
-- **DT Flow** — Atas inteligentes com orquestração multi-agente (workspace Rust + React/Mantine + Postgres/Redis/Azure Blob)
-- **SWTECH Smart Factory** — Módulo LLM em plataforma industrial (Node + React + Python): chat com previsão, cron de alertas, PDF por dispositivo
-- **Profinders RAG** — RAG com harness próprio de avaliação e loops dinâmicos de ciclos
-- **Gestão DT** — Dashboards financeiros em monorepo Next.js 16 + C#
-
 ---
 
 ## 📊 GitHub Stats
