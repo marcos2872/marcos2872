@@ -1,79 +1,90 @@
 # Marcos Brito
 
-**Full-Stack Backend Developer | Open Source Contributor**
+**Software Engineer @ SENAI-SP Distrito Tecnológico | Applied AI · Rust · Python · TypeScript**
 
-Desenvolvedor backend apaixonado por criar aplicações escaláveis, performáticas e com arquitetura sólida. Especializado em **NestJS** e **Rust**. Entusiasta por containerização, self-hosted solutions e práticas modernas de desenvolvimento.
+> Do protocolo ao produto: gateways LLM, RAG agentic, speech e desktops que colocam IA para rodar de verdade.
 
 ---
 
 ## 🚀 Sobre Mim
 
-- 💼 Full-Stack Backend Developer com foco em **NestJS** e **Rust**
-- 🏗️ Especialista em arquitetura escalável e design de APIs
-- 🐳 Conhecimento sólido em containerização (Docker) e self-hosted solutions
-- 🔧 Apaixonado por código limpo e boas práticas de desenvolvimento
-- 🐧 Linux enthusiast (Fedora KDE, Ubuntu Server, Arch)
-- 🤝 Contribuidor ativo em projetos open-source
-- 🤖 Experiência com MCP (Model Context Protocol) e integração com LLMs
-- 📡 Desenvolvimento com IoT, MQTT, Redis e message brokers
+- 💼 Software Engineer no **SENAI-SP Distrito Tecnológico** (Diadema/SP) — IA aplicada à indústria e educação
+- 🤖 **Applied AI:** RAG agentic com avaliação, gateways LLM Anthropic-compatible, observabilidade de LLMs, quantização e compressão de embeddings, speech realtime + diarização
+- 🦀 **Rust:** APIs async (Axum/Tokio), TUIs (Ratatui), desktops (Tauri v2), MCP servers, SSH/SFTP
+- 🐍 **Python:** FastAPI, LangChain/LangGraph, SQLAlchemy + pgvector, MLflow, torch/transformers
+- 🖥️ **Desktop local-first:** Tauri + React, GTK4/Adwaita (app publicado na loja Fedora), Electron, TUI apps
+- 📊 **Pesquisa reproduzível:** labs com benchmarks, notebooks, fronteiras de Pareto e metodologia documentada
+- 🐳 **Cloud-native:** Docker/Compose, PostgreSQL + pgvector, Redis, RabbitMQ, Azure (OpenAI, Speech, Blob, Entra ID)
+- 🔬 Spec-Driven Development, CI com gates de teste, Conventional Commits
 
 ---
 
+## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack Especializado
+### 🤖 Applied AI & LLMs
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Whisper](https://img.shields.io/badge/faster--whisper-000000?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
 
-### Backend & Arquitetura
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+### 🦀 Rust
 ![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Passport](https://img.shields.io/badge/Passport-34E27A?style=for-the-badge&logo=passport&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge)
+![Tokio](https://img.shields.io/badge/Tokio-000000?style=for-the-badge)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
+![Ratatui](https://img.shields.io/badge/Ratatui-000000?style=for-the-badge)
 
-### Bancos de Dados & ORM
+### 🐍 Python
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Textual](https://img.shields.io/badge/Textual-000000?style=for-the-badge)
+
+### 🌐 TypeScript, Frontend & Desktop
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### 🗄️ Dados & Mensageria
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Cache & Filas
-![BullMQ](https://img.shields.io/badge/BullMQ-FF6B6B?style=for-the-badge&logo=redis&logoColor=white)
-![Nodemailer](https://img.shields.io/badge/Nodemailer-139A3E?style=for-the-badge&logo=gmail&logoColor=white)
-
-### Infraestrutura & IoT
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Shell Script](https://img.shields.io/badge/Shell-BASH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=mqtt&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72C48?style=for-the-badge&logo=minio&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Linguagens & Ferramentas
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=black)
-
-### Testes & Qualidade
-![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=jest&logoColor=white)
-![Supertest](https://img.shields.io/badge/Supertest-2D3748?style=for-the-badge&logo=testing-library&logoColor=white)
-![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
-![Husky](https://img.shields.io/badge/Husky-008000?style=for-the-badge&logo=git&logoColor=white)
-
-### Observabilidade & Monitoramento
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+### ☁️ Infra & Observabilidade
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Jaeger](https://img.shields.io/badge/Jaeger-00B4D8?style=for-the-badge&logo=jaeger&logoColor=white)
-![Pino](https://img.shields.io/badge/Pino-40C157?style=for-the-badge&logo=node.js&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### Autorização & Segurança
-![CASL](https://img.shields.io/badge/CASL-2D3748?style=for-the-badge&logo=shield&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+### ✅ Testes & Qualidade
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=jest&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Swagger](https://img.shields.io/badge/OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ---
 
@@ -81,37 +92,42 @@ Desenvolvedor backend apaixonado por criar aplicações escaláveis, performáti
 
 | Área | Detalhes |
 |------|----------|
-| **Backend Development** | NestJS, Express, Rust; design de APIs RESTful e event-driven; Monólito Modular |
-| **Autenticação & Autorização** | JWT, Passport, CASL (RBAC/ABAC), refresh tokens |
-| **Banco de Dados** | PostgreSQL, MongoDB, Prisma ORM; design de schemas, migrations, otimização de queries |
-| **Cache & Filas Assíncronas** | Redis, BullMQ; processamento de tarefas assíncronas, job queues |
-| **Arquitetura** | SOLID, clean architecture, padrões escaláveis, system design, monólito modular |
-| **Observabilidade** | OpenTelemetry, Pino, traces estruturados, métricas e logs |
-| **Storage** | AWS S3, MinIO; gerenciamento de arquivos em produção e desenvolvimento |
-| **IoT & Sistemas Distribuídos** | MQTT consumers, message brokers, processamento de eventos |
-| **API Documentation** | Swagger/OpenAPI, documentação automática |
-| **Containerização** | Docker, Docker Compose, self-hosted solutions e práticas modernas |
-| **Linux & Administração** | Ubuntu Server, Fedora, configuração de sistemas, shell scripting |
-| **DevTools & CI/CD** | Git hooks (Husky), Conventional Commits (Commitlint), pnpm, GitHub Actions, Docker Hub |
-| **LLM Integration** | MCP (Model Context Protocol), chats com IA, integração com APIs de LLMs |
+| **LLM Gateways & Proxies** | Tradução de protocolos (Anthropic ↔ OpenAI Chat ↔ Responses API), SSE streaming, catálogo de modelos, auth local — Rust/Axum, Python/FastAPI |
+| **RAG & Agentes** | RAG agentic com gap-analysis e citações, LangChain/LangGraph, pgvector + FAISS, avaliação (Recall@k, MRR, judges), ingestão de documentos |
+| **ML Research & Quantização** | Benchmarks reproduzíveis de quantização (pesos + KV cache) e compressão de embeddings (até 16×), análise de Pareto |
+| **Speech & Visão** | ASR realtime + diarização (Whisper + pyannote), pipelines de transcrição, face unlock, biometria (fprintd + PAM) |
+| **Desktop & TUI** | Tauri v2 + React, GTK4/Adwaita, Electron, Ratatui — vaults criptografados, sync via CRDT, terminais e SFTP |
+| **Backend & Arquitetura** | Monólito modular (NestJS + Prisma), microsserviços event-driven (RabbitMQ/Redis), APIs REST, DI, RBAC/ABAC, auditoria |
+| **Dados & IoT** | PostgreSQL + pgvector, MongoDB, consumers MQTT, agregação de telemetria, SQLite embarcado |
+| **Observabilidade** | MLflow (tracing, judges, prompt optimization), Jaeger, Prometheus, OpenTelemetry |
+| **DevOps & Qualidade** | Docker/Compose, GitHub Actions com gates, SDD, Conventional Commits, uv + ruff + pytest |
 
 ---
 
 ## 💡 Projetos em Destaque
 
-Confira meus repositórios abertos para exemplos práticos de:
-- ✅ Arquitetura backend escalável com NestJS (Monólito Modular)
-- ✅ Autenticação e autorização com Passport + JWT + CASL
-- ✅ Processamento assíncrono com BullMQ e Redis
-- ✅ Storage com AWS S3 e MinIO
-- ✅ Observabilidade com OpenTelemetry e Pino e Jeager
-- ✅ Testes unitários e E2E com Jest e Supertest
-- ✅ Automação e ferramentas em Rust
-- ✅ Consumidores MQTT e integração com Redis
-- ✅ Documentação com Swagger/OpenAPI
-- ✅ Containerização com Docker e docker-compose
-- ✅ Integração com LLMs e MCP (Model Context Protocol)
-- ✅ Sistemas distribuídos e message brokers
+### 🤖 IA aplicada
+- **[SSH_Orchestrator](https://github.com/marcos2872/SSH_Orchestrator)** ⭐10 — Cliente SSH/SFTP cross-platform (Tauri v2 + React 19 + Rust): vault AES-256-GCM, sync via GitHub com CRDT, SFTP dual-pane, xterm.js
+- **[rag-embedding-compression-lab](https://github.com/marcos2872/rag-embedding-compression-lab)** ⭐11 — Compressão de embeddings RAG de 4× a 16× com medição de Recall@k/MRR — **7.9× sem perda de qualidade**
+- **[frank-opencode](https://github.com/marcos2872/frank-opencode)** — Gateway local Anthropic-compatible em Rust que expõe modelos OpenCode ao Claude Code (CI com gate de testes + latência)
+- **[os-mcp](https://github.com/marcos2872/os-mcp)** ⭐5 — Servidor MCP seguro para Linux com allowlist e audit trail
+- **[realtime-transcription-diarization](https://github.com/marcos2872/realtime-transcription-diarization)** — Transcrição realtime + diarização em 4 streams paralelos (Whisper + pyannote + FastAPI)
+- **[fingerprint-manager](https://github.com/marcos2872/fingerprint-manager)** — Gerenciador de digital GTK4/Adwaita publicado na loja Fedora
+- **[temporal-model-prediction](https://github.com/marcos2872/temporal-model-prediction)** — Predição temporal (CETESB): de ARIMA a Transformers/LLMs, com API FastAPI + metodologia documentada
+
+### 🏭 SENAI-SP Distrito Tecnológico (`istic-sp`)
+- **Hub do Grafeno Literature** — Chatbot RAG agentic bilíngue PT-EN com citações (FastAPI + LangGraph + pgvector, gate de testes 90%)
+- **DT Flow** — Atas inteligentes com orquestração multi-agente (workspace Rust + React/Mantine + Postgres/Redis/Azure Blob)
+- **SWTECH Smart Factory** — Módulo LLM em plataforma industrial (Node + React + Python): chat com previsão, cron de alertas, PDF por dispositivo
+- **Profinders RAG** — RAG com harness próprio de avaliação e loops dinâmicos de ciclos
+- **Gestão DT** — Dashboards financeiros em monorepo Next.js 16 + C#
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=marcos2872&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcos2872&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -134,4 +150,4 @@ Confira meus repositórios abertos para exemplos práticos de:
 
 ---
 
-**"Código limpo, arquitetura sólida, sistemas escaláveis."**
+**"Do protocolo ao produto: gateways, RAG e desktops que colocam IA para rodar de verdade."**
