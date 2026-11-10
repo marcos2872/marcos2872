@@ -115,10 +115,10 @@
 - **[podstack](https://github.com/marcos2872/podstack)** — Desktop Linux nativo para Podman: containers, Compose, VMs, Kubernetes e domínios locais
 
 ### 🏭 Organização istic-sp
-- **Hub do grafeno** — DOE com trava de repetidos, MCP remoto com chaves de API, UUIDv7, OTLP, identidade DT e ingestão via SharePoint
-- **Transcrição interna** — Onda por canal, modo sala com 1 microfone, modelo em português, idioma auto, sidecar Python para Rust com trava de GPU, runtime ONNX menor
-- **Atas inteligentes (flow)** — Geração, revisão e rastreabilidade de atas com orquestração de agentes, extensão em TypeScript strict com Vite
-- **SWTECH LLM industrial** — Base anotada de qualidade da água, FloatingChat com gráficos e relatório por dispositivo em PDF
+- Gestão do conhecimento — registro com trava de repetidos, chaves de API, acesso remoto via MCP, identidade visual própria e ingestão de documentos
+- Voz e transcrição — onda por canal, modo sala com 1 microfone, modelo em português, idioma automático, motor em Rust com trava de GPU e pacote menor
+- Reuniões e atas — geração, revisão e rastreabilidade com orquestração de agentes e extensão em TypeScript strict com Vite
+- Indústria e campo — base anotada de qualidade da água, chat flutuante com gráficos e relatório por dispositivo em PDF
 
 ---
 
