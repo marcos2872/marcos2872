@@ -106,14 +106,19 @@
 
 ## 💡 Projetos em Destaque
 
-### 🤖 IA aplicada
+### 📌 Fixados
 - **[SSH_Orchestrator](https://github.com/marcos2872/SSH_Orchestrator)** ⭐10 — Cliente SSH/SFTP cross-platform (Tauri v2 + React 19 + Rust): vault AES-256-GCM, sync via GitHub com CRDT, SFTP dual-pane, xterm.js
-- **[rag-embedding-compression-lab](https://github.com/marcos2872/rag-embedding-compression-lab)** ⭐11 — Compressão de embeddings RAG de 4× a 16× com medição de Recall@k/MRR — **7.9× sem perda de qualidade**
-- **[frank-opencode](https://github.com/marcos2872/frank-opencode)** — Gateway local Anthropic-compatible em Rust que expõe modelos OpenCode ao Claude Code (CI com gate de testes + latência)
-- **[os-mcp](https://github.com/marcos2872/os-mcp)** ⭐5 — Servidor MCP seguro para Linux com allowlist e audit trail
-- **[realtime-transcription-diarization](https://github.com/marcos2872/realtime-transcription-diarization)** — Transcrição realtime + diarização em 4 streams paralelos (Whisper + pyannote + FastAPI)
-- **[fingerprint-manager](https://github.com/marcos2872/fingerprint-manager)** — Gerenciador de digital GTK4/Adwaita publicado na loja Fedora
-- **[temporal-model-prediction](https://github.com/marcos2872/temporal-model-prediction)** — Predição temporal (CETESB): de ARIMA a Transformers/LLMs, com API FastAPI + metodologia documentada
+- **[agents-config](https://github.com/marcos2872/agents-config)** — Configuração do pi coding agent — agentes, skills e extensões
+- **[msbos](https://github.com/marcos2872/msbos)** — Distro Fedora com niri + Noctalia v5, otimizada para baixo RAM
+- **[opencode-browser-extension](https://github.com/marcos2872/opencode-browser-extension)** ⭐4 — Extensão Chrome ligada ao OpenCode local com chat e ferramentas browser_*
+- **[msbos-ai-chat](https://github.com/marcos2872/msbos-ai-chat)** — Chat de IA para desktop Fedora + niri usando OpenCode local
+- **[podstack](https://github.com/marcos2872/podstack)** — Desktop Linux nativo para Podman: containers, Compose, VMs, Kubernetes e domínios locais
+
+### 🏭 Organização istic-sp
+- **Hub do grafeno** — DOE com trava de repetidos, MCP remoto com chaves de API, UUIDv7, OTLP, identidade DT e ingestão via SharePoint
+- **Transcrição interna** — Onda por canal, modo sala com 1 microfone, modelo em português, idioma auto, sidecar Python para Rust com trava de GPU, runtime ONNX menor
+- **Atas inteligentes (flow)** — Geração, revisão e rastreabilidade de atas com orquestração de agentes, extensão em TypeScript strict com Vite
+- **SWTECH LLM industrial** — Base anotada de qualidade da água, FloatingChat com gráficos e relatório por dispositivo em PDF
 
 ---
 
